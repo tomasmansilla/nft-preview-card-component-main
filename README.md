@@ -10,6 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learn](#what-i-learn)
 - [Author](#author)
 
 ## Overview
@@ -38,6 +39,14 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### What I learn
+
+-Style my entire page in relative units
+-The page will scale up and down based on the viewport size.
+![](./images/scale-screenshot.png)
+
+
 
 ## Author
 
