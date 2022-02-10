@@ -12,10 +12,21 @@
 
     --radius: 0.7em;
 
-    font-size: 18px;
     --text-weight-1: 300;
     --text-weight-2: 400;
     --text-weight-3: 600;
+}
+
+@media (min-width: 375px) {
+    :root {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 800px) {
+    :root {
+        font-size: 18px;
+    }
 }
 
 * {
@@ -43,8 +54,8 @@ body {
 }
 
 .nft-content {
-    height: 580px;
-    width: 330px;
+    height: 32.2em;
+    width: 18.3em;
     display: flex;
     flex-direction: column;
     gap: 1.5em;
@@ -54,8 +65,8 @@ body {
 
  .nft-content > header {
     position: relative;
-    height: 334px;
-    width: 330px;
+    height: 18.5em;
+    width: 18.3em;
     cursor: pointer;
 }
 
