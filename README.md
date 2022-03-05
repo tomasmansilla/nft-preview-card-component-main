@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://tomasmansillautn.github.io/nft-preview-card-component-main/)
+- Solution URL: [Solution](https://tomasmansillautn.github.io/nft-preview-card-component-main/)
 
 ## My process
 
