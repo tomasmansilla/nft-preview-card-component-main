@@ -64,7 +64,7 @@ body {
 }
 
 .nft-content {
-    max-width: 18em;
+    width: 18em;
     display: flex;
     flex-direction: column;
     gap: 1.5em;
